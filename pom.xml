@@ -11,12 +11,12 @@
     <version>1.0-SNAPSHOT</version> <!-- Cambia esto según la versión de tu proyecto -->
     <packaging>jar</packaging> <!-- Cambia esto si no es un JAR -->
 
-    <build>
+    <buildaaa>
         <plugins>
             <!-- Docker Maven Plugin -->
             <plugin>
                 <groupId>io.fabric8</groupId>
-                <artifactId>docker-maven-pluginn</artifactId>
+                <artifactId>docker-maven-plugin</artifactId>
                 <version>0.38.1</version> <!-- Verifica si hay una versión más reciente -->
                 <configuration>
                     <images>
