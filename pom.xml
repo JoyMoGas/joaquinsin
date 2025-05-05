@@ -11,7 +11,7 @@
     <version>1.0-SNAPSHOT</version> <!-- Cambia esto según la versión de tu proyecto -->
     <packaging>jar</packaging> <!-- Cambia esto si no es un JAR -->
 
-    <build>
+    <aabuild>
         <plugins>
             <!-- Docker Maven Plugin -->
             <plugin>
