@@ -16,7 +16,7 @@
             <!-- Docker Maven Plugin -->
             <plugin>
                 <groupId>io.fabric8</groupId>
-                <artifactId>docker-maven-plugin</artifactId>
+                <artifactId>docker-maven-pluginn</artifactId>
                 <version>0.38.1</version> <!-- Verifica si hay una versión más reciente -->
                 <configuration>
                     <images>
